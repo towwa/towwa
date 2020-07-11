@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a coder 😋 . I like working on interesting open source projects and algorithms! 
+I'm a coder 😋 . I like working on interesting open source projects and algorithms! Currently trying out rust and go!
 
 [![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
