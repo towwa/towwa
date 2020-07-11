@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a coder 😋 . I like working on interesting open source projects and algorithms! 
+
+[![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
 **sssss465/sssss465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
