@@ -4,6 +4,8 @@ I'm a coder 😋 . I like working on interesting open source projects and algori
 
 ![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
 **sssss465/sssss465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
