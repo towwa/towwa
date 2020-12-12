@@ -2,9 +2,9 @@
 
 I'm a coder 😋 . I like working on interesting open source projects and algorithms! Currently trying out rust and go!
 
-![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
