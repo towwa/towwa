@@ -4,7 +4,7 @@ I'm a coder 😋 . I like working on interesting open source projects and algori
 
 ![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact?theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
