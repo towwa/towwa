@@ -1,0 +1,23 @@
+name: Metrics Generator
+on:
+  # Schedule updates (each day)
+  schedule:
+    - cron: "0 0 * * *"
+  # Lines below let you run workflow manually and on each commit
+  push: 
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Github Metrics
+        if: ${{ success() || failure() }}
+        uses: sssss465/metrics@latest
+        with:
+          template: classic
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, repositories, activity, community
