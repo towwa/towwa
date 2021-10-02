@@ -2,7 +2,9 @@
 
 I'm a coder 😋 . I like working on interesting open source projects and algorithms! Currently trying out rust and go!
 
-![Metrics](https://github.com/sssss465/sssss465/blob/master/github-metrics.svg)
+![img align="left" width="400" alt="🍋"](https://github.com/sssss465/sssss465/blob/master/metrics.svg)
+
+![img align="right" width="400" alt=🍋"](https://github.com/sssss465/sssss465/blob/master/metrics.languages.svg)
 
 ![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula)
 
