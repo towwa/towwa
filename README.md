@@ -2,11 +2,11 @@
 
 I'm a coder 😋 . I like working on interesting open source projects and algorithms! Currently trying out rust and go!
 
-<img align="left" width="600" alt="🍋" src="https://github.com/sssss465/sssss465/blob/master/metrics.svg">
+<img align="middle" width="600" alt="🍋" src="https://github.com/sssss465/sssss465/blob/master/metrics.svg">
 
-![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula)
+<!-- ![sssss465's github stats](https://github-readme-stats.vercel.app/api?username=sssss465&show_icons=true&title_color=fff&icon_color=79ff97&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
 <!--
