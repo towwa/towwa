@@ -22,7 +22,6 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, css 
-          config_order: base, isocalendar, languages
           token: ${{ secrets.METRICS_TOKEN }}
           
       - name: 🦑 Personal metrics (right)
