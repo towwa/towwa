@@ -10,14 +10,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: 🦑 Personal metrics (left)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           plugin_isocalendar: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+      - name: 🦑 Personal metrics (right)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          filename: metrics.languages.svg
           plugin_languages: yes
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 2
-          plugin_languages_ignored: html, css      
+          plugin_languages_ignored: html, css 
+          config_order: languages
           token: ${{ secrets.METRICS_TOKEN }}
