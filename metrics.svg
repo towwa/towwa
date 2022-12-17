@@ -334,15 +334,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 106kb of code in 50 edited files across 33 commits over last 14 days</small>
+                <small>estimation from 105kb of code in 47 edited files across 31 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="310.5315749201062" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="310.5315749201062" y="0" width="84.49655669082235" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="395.02813161092854" y="0" width="64.97186838907143" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.433576299083" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="324.433576299083" y="0" width="67.88055490242182" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="392.3141312015048" y="0" width="67.68586879849519" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -355,9 +355,23 @@
                             </div>
                             <small>
                                 <div>591 lines</div>
-                                <div>67.51%</div>
+                                <div>70.53%</div>
                             </small>
                         </div>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                RenderScript
+                            </div>
+                            <small>
+                                <div>123 lines</div>
+                                <div>14.71%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -367,21 +381,7 @@
                             </div>
                             <small>
                                 <div>258 lines</div>
-                                <div>14.12%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                RenderScript
-                            </div>
-                            <small>
-                                <div>161 lines</div>
-                                <div>18.37%</div>
+                                <div>14.76%</div>
                             </small>
                         </div>
                     </section>
@@ -1414,7 +1414,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2022, 12:26:17  with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 17 Dec 2022, 13:17:21  with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
