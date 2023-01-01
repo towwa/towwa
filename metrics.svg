@@ -334,14 +334,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 98.7kb of code in 17 edited files across 13 commits over last 14 days</small>
+                <small>estimation from 86.4kb of code in 14 edited files across 11 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="449.04761904761904" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.04761904761904" y="0" width="10.952380952380953" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="448.67412358477696" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.67412358477696" y="0" width="11.325876415223027" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -353,8 +353,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>602 lines</div>
-                                <div>97.62%</div>
+                                <div>509 lines</div>
+                                <div>97.54%</div>
                             </small>
                         </div>
                     </section>
@@ -367,8 +367,8 @@
                                 Roff
                             </div>
                             <small>
-                                <div>49 lines</div>
-                                <div>2.38%</div>
+                                <div>48 lines</div>
+                                <div>2.46%</div>
                             </small>
                         </div>
                     </section>
@@ -1400,7 +1400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2023, 15:14:49  with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 1 Jan 2023, 16:19:55  with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
