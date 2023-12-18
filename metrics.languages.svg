@@ -136,14 +136,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 164kb of code in 25 edited files across 34 commits over last 14 days</small>
+                <small>estimation from 152kb of code in 21 edited files across 32 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="446.22602955045585" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.22602955045585" y="0" width="13.77397044954417" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="457.4774318737872" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.4774318737872" y="0" width="2.522568126212773" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,8 +155,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>573 lines</div>
-                                <div>97.01%</div>
+                                <div>547 lines</div>
+                                <div>99.45%</div>
                             </small>
                         </div>
                     </section>
@@ -169,8 +169,8 @@
                                 Roff
                             </div>
                             <small>
-                                <div>8 lines</div>
-                                <div>2.99%</div>
+                                <div>3 lines</div>
+                                <div>0.55%</div>
                             </small>
                         </div>
                     </section>
