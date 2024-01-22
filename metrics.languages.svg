@@ -136,14 +136,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 86.4kb of code in 14 edited files across 14 commits over last 14 days</small>
+                <small>estimation from 72.5kb of code in 11 edited files across 12 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.6789036962534" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.6789036962534" y="0" width="29.32109630374654" height="8" fill="#ecdebe"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.85185185185185" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="429.85185185185185" y="0" width="30.148148148148145" height="8" fill="#ecdebe"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -155,8 +155,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>316 lines</div>
-                                <div>93.63%</div>
+                                <div>254 lines</div>
+                                <div>93.45%</div>
                             </small>
                         </div>
                     </section>
@@ -169,8 +169,8 @@
                                 Roff
                             </div>
                             <small>
-                                <div>46 lines</div>
-                                <div>6.37%</div>
+                                <div>36 lines</div>
+                                <div>6.55%</div>
                             </small>
                         </div>
                     </section>
