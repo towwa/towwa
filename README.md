@@ -8,7 +8,15 @@ I'm a coder 😋 . I like working on interesting open source projects and algori
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sssss465&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![HitCount](http://hits.dwyl.com/sssss465.svg)](http://hits.dwyl.com/sssss465)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20and%20☕-brown)
+![Profile Views](https://komarev.com/ghpvc/?username=towwa&color=blue)
+![GitHub Repo stars](https://img.shields.io/github/stars/towwa?affiliations=OWNER&style=flat&color=yellow)
+![GitHub followers](https://img.shields.io/github/followers/towwa?style=flat&color=green)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 <!--
 **sssss465/sssss465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
