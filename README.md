@@ -8,11 +8,6 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=towwa&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 <!-- Existing metrics.svg outputs from the images.yml workflow — raw.githubusercontent.com, not the blob viewer page -->
 <div align="center">
