@@ -21,11 +21,11 @@
 
 </div>
 
-<!-- Existing metrics.svg outputs from the images.yml workflow — path fixed to point at this repo instead of the old sssss465/sssss465 fork reference -->
+<!-- Existing metrics.svg outputs from the images.yml workflow — raw.githubusercontent.com, not the blob viewer page -->
 <div align="center">
 
-<img align="middle" width="600" alt="metrics" src="https://github.com/towwa/towwa/blob/master/metrics.svg">
-<img align="middle" width="600" alt="metrics-languages" src="https://github.com/towwa/towwa/blob/master/metrics.languages.svg">
+<img align="middle" width="600" alt="metrics" src="https://raw.githubusercontent.com/towwa/towwa/master/metrics.svg">
+<img align="middle" width="600" alt="metrics-languages" src="https://raw.githubusercontent.com/towwa/towwa/master/metrics.languages.svg">
 
 </div>
 
