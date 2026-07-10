@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=towwa&fontSize=60&fontColor=c0caf5&animation=fadeIn&desc=Rust%20and%20Go%20tourist%2C%20full-time%20algorithm%20nerd&descAlignY=75&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=building+weird+little+tools+in+Rust;occasionally+finishing+them+in+Go;open+source+because+debugging+alone+is+worse" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=building+useful+little+tools+in+Python;open+source+because+debugging+alone+is+worse" />
 
 </div>
 
