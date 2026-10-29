@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=towwa&fontSize=60&fontColor=c0caf5&animation=fadeIn&desc=Rust%20and%20Go%20tourist%2C%20full-time%20algorithm%20nerd&descAlignY=75&descSize=18" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=building+useful+little+tools+in+Python;open+source+because+debugging+alone+is+worse" />
+<a href="https://towwa.github.io"><img src="banner.svg" alt="towwa — Rust &amp; Go tourist, full-time algorithm nerd" width="100%" /></a>
 
 </div>
 
@@ -20,9 +18,9 @@
 <div align="center">
 
 ![Made with Love](https://img.shields.io/badge/Made%20with-❤️%20and%20☕-brown)
-![Profile Views](https://komarev.com/ghpvc/?username=towwa&color=7aa2f7)
-![GitHub Repo stars](https://img.shields.io/github/stars/towwa?affiliations=OWNER&style=flat&color=7aa2f7)
-![GitHub followers](https://img.shields.io/github/followers/towwa?style=flat&color=7aa2f7)
+![Profile Views](https://komarev.com/ghpvc/?username=towwa&color=ff5a1f)
+![GitHub Repo stars](https://img.shields.io/github/stars/towwa?affiliations=OWNER&style=flat&color=ff5a1f)
+![GitHub followers](https://img.shields.io/github/followers/towwa?style=flat&color=ff5a1f)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
